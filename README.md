@@ -58,13 +58,3 @@ Install the dependencies by running :
     * Speech emotions: 7 (anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral)
     * English accent
     * Source: https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess
-## Getting Started 
-
-1. Clone the this repository.
-2. Download the data from the source. 
-3. Unzip the data in the data folder and make sure that the folder structure is as it follows: /data/Netflix_prize_data/
-4. Install all the dependencies
-```
-  pip3 install requirements.txt 
-```
-
