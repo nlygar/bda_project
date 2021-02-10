@@ -22,7 +22,7 @@ In this project,  a simple emotion recognizer is build from speech data using a 
 ## Installing dependencies
 
 Note: You can skip this step, if you have the  packages already installed.
-Dependencies are listed below and in the requirements.txt file.
+Dependencies are in the requirements.txt file.
 
 Install the dependencies by running : 
 
@@ -32,9 +32,9 @@ Install the dependencies by running :
 
 ## Directory Structure
 
-* src/ - Package folder which contains all the code files corresponding to package
-* data/ :  Contains the speech files in wav formatted seperated into 7 folders which are the corresponding labels of those files
-* models/ - Contains the saved models which obtained best accuracy on test data.
+* `src/` : Package folder which contains all the code files 
+* `data/` :  Contains the speech files 
+* `models/`: Contains the saved models which obtained best accuracy on test data.
 
 
 ## Data
